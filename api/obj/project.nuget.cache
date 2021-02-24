@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rGu0xiNA0XycgTdNq3RJpEUQYOJW+fRK+PjO+Yr9DgINQW+u1qPqJaea9uiNxoeL/izypEhToPB8XGCexMMjxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ajont\\source\\repos\\api\\AnimalsAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ajont\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
