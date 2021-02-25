@@ -17,13 +17,9 @@ namespace TestAPI.Controllers
         public IEnumerable<string> Get()
         {
             string[] animals = { "Lion", "Tiger", "Elephant" };
-            // Create a List and add a collection  
-            List<string> animalsList = new List<string>();
-            animalsList.AddRange(animals);
-            foreach (string a in animalsList)
-            { return animalsList; }
             
-            return default;
+            { return animals; }
+     
         }
         
         // GET api/<Test>/5
